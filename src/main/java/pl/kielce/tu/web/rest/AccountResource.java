@@ -40,7 +40,7 @@ public class AccountResource {
     private final UserRepository userRepository;
 
     private final UserService userService;
-
+// test
     private final MailService mailService;
 
     private final PersistentTokenRepository persistentTokenRepository;
